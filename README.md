@@ -4,10 +4,10 @@
 ### A application were you can book you tickets just by sitting in home or any where you no need to visit it.
 
 ## Sandeep narsin 
-### Payment Options
+### -Payment Options
 
 ## Nithin
-### Cancellations/Modifications
+### -Cancellations/Modifications
 
 ## Bharat Reddy
-### Locations & Tickets avaliability
+### -Locations & Tickets avaliability
